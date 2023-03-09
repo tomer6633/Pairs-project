@@ -87,3 +87,66 @@ main {
   font-size: 24px;
   font-weight: bold;
 }
+
+.level1 {
+  width: 10vw;
+  height: 12.5vh;
+  background-color: darkblue;
+  color: transparent;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  display: flex;
+  font-size: xx-large;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.level1 img {
+  width: 10vw;
+  height: 12.5vh;
+  opacity: 1;
+}
+
+.level2 {
+  width: 10vw;
+  height: 12.5vh;
+  background-color: darkblue;
+  color: transparent;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  display: flex;
+  font-size: xx-large;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.level2 img {
+  width: 10vw;
+  height: 12.5vh;
+  opacity: 1;
+}
+
+.level3 {
+  width: 10vw;
+  height: 12.5vh;
+  background-color: darkblue;
+  color: transparent;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  display: flex;
+  font-size: xx-large;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.level3 img {
+  width: 10vw;
+  height: 12.5vh;
+  opacity: 1;
+}
